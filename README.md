@@ -2,8 +2,6 @@
 Custam Title Bar c# winForm.
 dd this class to your project to create your own title bar for using commands in your form, here is a usage example:
 
-namespace WindowsFormsApp1
-{
     public partial class Form1 : Form
     {
         private AeroSnapTitleBarControls aeroSnapTitleBarControls;
@@ -29,5 +27,4 @@ namespace WindowsFormsApp1
     {
         aeroSnapTitleBarControls.AeroSnapTitleBar();
     }
-  } 
-}
+  

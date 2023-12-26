@@ -1,5 +1,5 @@
 # CustamTitleBar
-Custam Title Bar c# winForm.
+Custam Title bar c# winForm.
 dd this class to your project to create your own title bar for using commands in your form, here is a usage example:
 
     public partial class Form1 : Form

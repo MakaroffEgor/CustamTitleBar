@@ -3,7 +3,6 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
 {
 
     internal class AeroSnapTitleBarControls : NativeWindow

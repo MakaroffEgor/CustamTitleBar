@@ -3,8 +3,6 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-{
-
     internal class AeroSnapTitleBarControls : NativeWindow
     {
         private Form form;
@@ -118,4 +116,3 @@ using System.Windows.Forms;
             lastClickTime = DateTime.Now;
         }
     }
-}

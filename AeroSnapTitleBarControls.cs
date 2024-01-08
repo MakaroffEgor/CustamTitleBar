@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-    internal class AeroSnapTitleBarControls : NativeWindow
+    public class AeroSnapTitleBarControls : NativeWindow
     {
         private Form form;
         private Size formSize;
